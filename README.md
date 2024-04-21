@@ -1,1 +1,1 @@
-# Academic-Performance-Tracker
+# Academic Performance Tracker
